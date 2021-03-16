@@ -7,4 +7,4 @@ client = commands.Bot(command_prefix = '!')
 async def on_ready():
     print('Alfreds skapelse lever!')
 
-client.run('ODIxMjkxMzUxMjEwNzIxMjgw.YFBlLA.3xeGMDBL46DzqFhpMADeH9KsoR8')
+client.run('hemlig token')
